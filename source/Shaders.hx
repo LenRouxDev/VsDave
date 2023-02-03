@@ -7,7 +7,7 @@ import openfl.utils.Assets;
 import flixel.FlxG;
 import openfl.Lib;
 import flixel.math.FlxPoint;
-//thx andromeda engine for da ports 
+//thx andromeda engine for da ports .
 using StringTools;
 typedef ShaderEffect = {
   var shader:Dynamic;
